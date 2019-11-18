@@ -1,0 +1,15 @@
+.\objects\weight.o: CODE\src\weight.c
+.\objects\weight.o: .\CODE\inc\weight.h
+.\objects\weight.o: .\CMSIS\inc\stm32f0xx.h
+.\objects\weight.o: .\CMSIS\inc\stm32f030x6.h
+.\objects\weight.o: .\CMSIS\inc\core_cm0.h
+.\objects\weight.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\weight.o: .\CMSIS\inc\cmsis_version.h
+.\objects\weight.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\weight.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\weight.o: .\CMSIS\inc\system_stm32f0xx.h
+.\objects\weight.o: .\CODE\inc\delay.h
+.\objects\weight.o: .\CODE\inc\ads1220.h
+.\objects\weight.o: .\CODE\inc\spi.h
+.\objects\weight.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\weight.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

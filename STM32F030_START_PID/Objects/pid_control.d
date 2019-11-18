@@ -1,0 +1,10 @@
+.\objects\pid_control.o: CODE\src\pid_control.c
+.\objects\pid_control.o: .\CODE\inc\pid_control.h
+.\objects\pid_control.o: .\CMSIS\inc\stm32f0xx.h
+.\objects\pid_control.o: .\CMSIS\inc\stm32f030x6.h
+.\objects\pid_control.o: .\CMSIS\inc\core_cm0.h
+.\objects\pid_control.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pid_control.o: .\CMSIS\inc\cmsis_version.h
+.\objects\pid_control.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\pid_control.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\pid_control.o: .\CMSIS\inc\system_stm32f0xx.h

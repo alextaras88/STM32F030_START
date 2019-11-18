@@ -1,0 +1,12 @@
+.\objects\ad7730.o: CODE\src\ad7730.c
+.\objects\ad7730.o: .\CODE\inc\ad7730.h
+.\objects\ad7730.o: .\CMSIS\inc\stm32f0xx.h
+.\objects\ad7730.o: .\CMSIS\inc\stm32f030x6.h
+.\objects\ad7730.o: .\CMSIS\inc\core_cm0.h
+.\objects\ad7730.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ad7730.o: .\CMSIS\inc\cmsis_version.h
+.\objects\ad7730.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\ad7730.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\ad7730.o: .\CMSIS\inc\system_stm32f0xx.h
+.\objects\ad7730.o: .\CODE\inc\spi.h
+.\objects\ad7730.o: .\CODE\inc\delay.h

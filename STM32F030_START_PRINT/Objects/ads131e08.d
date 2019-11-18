@@ -1,0 +1,12 @@
+.\objects\ads131e08.o: CODE\src\ads131e08.c
+.\objects\ads131e08.o: .\CODE\inc\ads131e08.h
+.\objects\ads131e08.o: .\CMSIS\inc\stm32f0xx.h
+.\objects\ads131e08.o: .\CMSIS\inc\stm32f030x6.h
+.\objects\ads131e08.o: .\CMSIS\inc\core_cm0.h
+.\objects\ads131e08.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ads131e08.o: .\CMSIS\inc\cmsis_version.h
+.\objects\ads131e08.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\ads131e08.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\ads131e08.o: .\CMSIS\inc\system_stm32f0xx.h
+.\objects\ads131e08.o: .\CODE\inc\spi.h
+.\objects\ads131e08.o: .\CODE\inc\delay.h

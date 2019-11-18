@@ -1,0 +1,26 @@
+--cpu Cortex-M0
+".\objects\system_stm32f0xx.o"
+".\objects\main.o"
+".\objects\system_init.o"
+".\objects\delay.o"
+".\objects\spi.o"
+".\objects\i2c.o"
+".\objects\pwm.o"
+".\objects\exti.o"
+".\objects\adc.o"
+".\objects\ssd1306.o"
+".\objects\ssd1306_fonts.o"
+".\objects\pi_control.o"
+".\objects\lcd_i2c.o"
+".\objects\lcd1602.o"
+".\objects\eeprom.o"
+".\objects\usart.o"
+".\objects\ads1220.o"
+".\objects\ads131e08.o"
+".\objects\weight.o"
+".\objects\ad7730.o"
+".\objects\startup_stm32f030x6.o"
+--strict --scatter ".\Objects\stm32f030_start.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\stm32f030_start.map" -o .\Objects\stm32f030_start.axf

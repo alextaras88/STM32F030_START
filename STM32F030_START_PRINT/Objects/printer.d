@@ -1,0 +1,16 @@
+.\objects\printer.o: CODE\src\printer.c
+.\objects\printer.o: .\CODE\inc\printer.h
+.\objects\printer.o: .\CMSIS\inc\stm32f0xx.h
+.\objects\printer.o: .\CMSIS\inc\stm32f030x6.h
+.\objects\printer.o: .\CMSIS\inc\core_cm0.h
+.\objects\printer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\printer.o: .\CMSIS\inc\cmsis_version.h
+.\objects\printer.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\printer.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\printer.o: .\CMSIS\inc\system_stm32f0xx.h
+.\objects\printer.o: .\CODE\inc\usart.h
+.\objects\printer.o: .\CODE\inc\delay.h
+.\objects\printer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\printer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\printer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\printer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h

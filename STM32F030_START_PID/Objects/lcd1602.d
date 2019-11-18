@@ -1,0 +1,11 @@
+.\objects\lcd1602.o: CODE\src\lcd1602.c
+.\objects\lcd1602.o: .\CODE\inc\lcd1602.h
+.\objects\lcd1602.o: .\CMSIS\inc\stm32f0xx.h
+.\objects\lcd1602.o: .\CMSIS\inc\stm32f030x6.h
+.\objects\lcd1602.o: .\CMSIS\inc\core_cm0.h
+.\objects\lcd1602.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lcd1602.o: .\CMSIS\inc\cmsis_version.h
+.\objects\lcd1602.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\lcd1602.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\lcd1602.o: .\CMSIS\inc\system_stm32f0xx.h
+.\objects\lcd1602.o: .\CODE\inc\delay.h

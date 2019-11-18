@@ -1,0 +1,246 @@
+Dependencies for Project 'stm32f030_start', Target 'stm32': (DO NOT MODIFY !)
+F (.\CMSIS\src\system_stm32f0xx.c)(0x5978B3FE)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\system_stm32f0xx.o --omf_browse .\objects\system_stm32f0xx.crf --depend .\objects\system_stm32f0xx.d)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+F (.\CODE\src\main.c)(0x5D9EE5AB)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\CODE\inc\main.h)(0x5D9EC803)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEBC032)
+I (.\CODE\inc\system_init.h)(0x5D0110B4)
+I (.\CODE\inc\delay.h)(0x5D011668)
+I (.\CODE\inc\spi.h)(0x5D049AFE)
+I (.\CODE\inc\i2c.h)(0x5D6F51B5)
+I (.\CODE\inc\usart.h)(0x5D6F5425)
+I (.\CODE\inc\pwm.h)(0x5D09379A)
+I (.\CODE\inc\exti.h)(0x5D0A8B0C)
+I (.\CODE\inc\adc.h)(0x5D1862FA)
+I (.\CODE\inc\pi_control.h)(0x5D1862AC)
+I (.\CODE\inc\weight.h)(0x5D773CA6)
+I (.\CODE\inc\ads1220.h)(0x5D9C25C6)
+I (.\SSD1306\ssd1306.h)(0x5D17A700)
+I (.\SSD1306\ssd1306_fonts.h)(0x5D17B6AE)
+I (.\CODE\inc\lcd_i2c.h)(0x5D2F91F0)
+I (.\CODE\inc\lcd1602.h)(0x5D6CC986)
+I (.\CODE\inc\eeprom.h)(0x5D6F9A35)
+I (.\CODE\inc\ads131e08.h)(0x5D762E9A)
+I (.\CODE\inc\ad7730.h)(0x5D7B4DE3)
+I (.\CODE\inc\pid_control.h)(0x5D9ECC0A)
+F (.\CODE\src\system_init.c)(0x5D6F6149)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\system_init.o --omf_browse .\objects\system_init.crf --depend .\objects\system_init.d)
+I (.\CODE\inc\system_init.h)(0x5D0110B4)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+F (.\CODE\src\delay.c)(0x5D026172)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (.\CODE\inc\delay.h)(0x5D011668)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+F (.\CODE\src\spi.c)(0x5D722964)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\spi.o --omf_browse .\objects\spi.crf --depend .\objects\spi.d)
+I (.\CODE\inc\spi.h)(0x5D049AFE)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+F (.\CODE\src\i2c.c)(0x5D6FA18F)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (.\CODE\inc\i2c.h)(0x5D6F51B5)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+F (.\CODE\src\pwm.c)(0x5D9EDF9C)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\pwm.o --omf_browse .\objects\pwm.crf --depend .\objects\pwm.d)
+I (.\CODE\inc\pwm.h)(0x5D09379A)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+F (.\CODE\src\exti.c)(0x5D0F9350)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\exti.o --omf_browse .\objects\exti.crf --depend .\objects\exti.d)
+I (.\CODE\inc\exti.h)(0x5D0A8B0C)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+F (.\CODE\src\adc.c)(0x5D6232B2)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (.\CODE\inc\adc.h)(0x5D1862FA)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+F (.\SSD1306\ssd1306.c)(0x5D6F5210)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\ssd1306.o --omf_browse .\objects\ssd1306.crf --depend .\objects\ssd1306.d)
+I (SSD1306\ssd1306.h)(0x5D17A700)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+I (.\CODE\inc\i2c.h)(0x5D6F51B5)
+I (.\CODE\inc\delay.h)(0x5D011668)
+I (SSD1306\ssd1306_fonts.h)(0x5D17B6AE)
+F (.\SSD1306\ssd1306_fonts.c)(0x5D17B6AE)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\ssd1306_fonts.o --omf_browse .\objects\ssd1306_fonts.crf --depend .\objects\ssd1306_fonts.d)
+I (SSD1306\ssd1306_fonts.h)(0x5D17B6AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+F (.\CODE\src\pi_control.c)(0x5D18625C)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\pi_control.o --omf_browse .\objects\pi_control.crf --depend .\objects\pi_control.d)
+I (.\CODE\inc\pi_control.h)(0x5D1862AC)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+F (.\CODE\src\lcd_i2c.c)(0x5D6F5292)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\lcd_i2c.o --omf_browse .\objects\lcd_i2c.crf --depend .\objects\lcd_i2c.d)
+I (.\CODE\inc\lcd_i2c.h)(0x5D2F91F0)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+I (.\CODE\inc\i2c.h)(0x5D6F51B5)
+I (.\CODE\inc\delay.h)(0x5D011668)
+F (.\CODE\src\lcd1602.c)(0x5D5E8444)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\lcd1602.o --omf_browse .\objects\lcd1602.crf --depend .\objects\lcd1602.d)
+I (.\CODE\inc\lcd1602.h)(0x5D6CC986)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+I (.\CODE\inc\delay.h)(0x5D011668)
+F (.\CODE\src\eeprom.c)(0x5D6F5275)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\eeprom.o --omf_browse .\objects\eeprom.crf --depend .\objects\eeprom.d)
+I (.\CODE\inc\eeprom.h)(0x5D6F9A35)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+I (.\CODE\inc\i2c.h)(0x5D6F51B5)
+I (.\CODE\inc\delay.h)(0x5D011668)
+F (.\CODE\src\usart.c)(0x5D6F6164)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\usart.o --omf_browse .\objects\usart.crf --depend .\objects\usart.d)
+I (.\CODE\inc\usart.h)(0x5D6F5425)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+F (.\CODE\src\ads1220.c)(0x5D9C25A6)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\ads1220.o --omf_browse .\objects\ads1220.crf --depend .\objects\ads1220.d)
+I (.\CODE\inc\ads1220.h)(0x5D9C25C6)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+I (.\CODE\inc\spi.h)(0x5D049AFE)
+I (.\CODE\inc\delay.h)(0x5D011668)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEBC032)
+F (.\CODE\src\ads131e08.c)(0x5D762FFF)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\ads131e08.o --omf_browse .\objects\ads131e08.crf --depend .\objects\ads131e08.d)
+I (.\CODE\inc\ads131e08.h)(0x5D762E9A)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+I (.\CODE\inc\spi.h)(0x5D049AFE)
+I (.\CODE\inc\delay.h)(0x5D011668)
+F (.\CODE\src\weight.c)(0x5D773E19)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\weight.o --omf_browse .\objects\weight.crf --depend .\objects\weight.d)
+I (.\CODE\inc\weight.h)(0x5D773CA6)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+I (.\CODE\inc\delay.h)(0x5D011668)
+I (.\CODE\inc\ads1220.h)(0x5D9C25C6)
+I (.\CODE\inc\spi.h)(0x5D049AFE)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEBC032)
+F (.\CODE\src\ad7730.c)(0x5D7B4DE3)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\ad7730.o --omf_browse .\objects\ad7730.crf --depend .\objects\ad7730.d)
+I (.\CODE\inc\ad7730.h)(0x5D7B4DE3)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+I (.\CODE\inc\spi.h)(0x5D049AFE)
+I (.\CODE\inc\delay.h)(0x5D011668)
+F (.\CODE\src\pid_control.c)(0x5D9ECC15)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\STM32F030_START -I .\CMSIS -I .\CMSIS\inc -I .\CODE -I .\CODE\inc -I .\Startup -I .\SSD1306-I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F030x6-o .\objects\pid_control.o --omf_browse .\objects\pid_control.crf --depend .\objects\pid_control.d)
+I (.\CODE\inc\pid_control.h)(0x5D9ECC0A)
+I (.\CMSIS\inc\stm32f0xx.h)(0x5D010EE4)
+I (.\CMSIS\inc\stm32f030x6.h)(0x5978B3FE)
+I (.\CMSIS\inc\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\CMSIS\inc\cmsis_version.h)(0x5B1F84E4)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5B588A16)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5B61B6D4)
+I (.\CMSIS\inc\system_stm32f0xx.h)(0x5978B3FE)
+F (.\Startup\startup_stm32f030x6.s)(0x5978B3FE)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_stm32-IC:\Users\E_M\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 528" --pd "STM32F030x6 SETA 1"--list .\listings\startup_stm32f030x6.lst --xref -o .\objects\startup_stm32f030x6.o --depend .\objects\startup_stm32f030x6.d)

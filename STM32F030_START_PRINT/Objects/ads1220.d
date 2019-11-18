@@ -1,0 +1,14 @@
+.\objects\ads1220.o: CODE\src\ads1220.c
+.\objects\ads1220.o: .\CODE\inc\ads1220.h
+.\objects\ads1220.o: .\CMSIS\inc\stm32f0xx.h
+.\objects\ads1220.o: .\CMSIS\inc\stm32f030x6.h
+.\objects\ads1220.o: .\CMSIS\inc\core_cm0.h
+.\objects\ads1220.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ads1220.o: .\CMSIS\inc\cmsis_version.h
+.\objects\ads1220.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\ads1220.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\ads1220.o: .\CMSIS\inc\system_stm32f0xx.h
+.\objects\ads1220.o: .\CODE\inc\spi.h
+.\objects\ads1220.o: .\CODE\inc\delay.h
+.\objects\ads1220.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\ads1220.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

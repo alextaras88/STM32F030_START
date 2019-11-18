@@ -1,0 +1,10 @@
+.\objects\usart.o: CODE\src\usart.c
+.\objects\usart.o: .\CODE\inc\usart.h
+.\objects\usart.o: .\CMSIS\inc\stm32f0xx.h
+.\objects\usart.o: .\CMSIS\inc\stm32f030x6.h
+.\objects\usart.o: .\CMSIS\inc\core_cm0.h
+.\objects\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart.o: .\CMSIS\inc\cmsis_version.h
+.\objects\usart.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\usart.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\usart.o: .\CMSIS\inc\system_stm32f0xx.h
