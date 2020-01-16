@@ -9,8 +9,6 @@ typedef struct {
 	const uint16_t *data; /*!< Pointer to data font data array */
 } FontDef;
 
-
-
 extern FontDef Font_11x18;
 
 #endif // __SSD1306_FONTS_H__

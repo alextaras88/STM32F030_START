@@ -27,6 +27,8 @@
 #include "ads131e08.h"
 #include "ad7730.h"
 
+#include "mfrc522.h"
+
 
 #endif /* _MAIN_H_ */
 

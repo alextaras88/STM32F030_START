@@ -84,7 +84,7 @@ void ads1220_Init(void){
 	Delay_ms(100);
 	CS_ADS1220_HIGH;
 	
-	ads1220_WREG(CONFIG_REG0 , 0x0A);		// AINP = AIN0, AINN = AIN1, gain = 32, PGA enabled
+	ads1220_WREG(CONFIG_REG0 , 0x00);		// AINP = AIN0, AINN = AIN1, gain = 32, PGA enabled
 	ads1220_WREG(CONFIG_REG1 , 0x24);		// DR = 45 SPS, normal, continuous conversion mode
 	ads1220_WREG(CONFIG_REG2 , 0xD0);		// External voltage reference(AVDD-AVCC), simultaneous 50-Hz and 60-Hz rejection
 	ads1220_WREG(CONFIG_REG3 , 0x00);		// No IDACs used
@@ -140,7 +140,7 @@ float ads1220_Get_temp(void){
 /************************************************************************************/
 float ads1220_Get_V(void){
 	
-	return (float)((ads1220_GetData()*VFSR*1000)/FSR);
+	return (float)((ads1220_GetData()*VFSR)/FSR);
 
 }
 /************************************************************************************/

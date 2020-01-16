@@ -1,0 +1,12 @@
+.\objects\owen_485.o: CODE\src\OWEN_485.c
+.\objects\owen_485.o: .\CODE\inc\OWEN_485.h
+.\objects\owen_485.o: .\CMSIS\inc\stm32f0xx.h
+.\objects\owen_485.o: .\CMSIS\inc\stm32f030x6.h
+.\objects\owen_485.o: .\CMSIS\inc\core_cm0.h
+.\objects\owen_485.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\owen_485.o: .\CMSIS\inc\cmsis_version.h
+.\objects\owen_485.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\owen_485.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\owen_485.o: .\CMSIS\inc\system_stm32f0xx.h
+.\objects\owen_485.o: .\CODE\inc\usart.h
+.\objects\owen_485.o: .\CODE\inc\delay.h

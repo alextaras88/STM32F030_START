@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <stdint.h>
 /****************************************************/
-#define PGA 32
+#define PGA 1
 #define VREF 2.500
 #define VFSR VREF/PGA
 #define FSR (((long int)1<<23)-1)

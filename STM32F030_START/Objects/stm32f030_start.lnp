@@ -19,6 +19,7 @@
 ".\objects\ads131e08.o"
 ".\objects\weight.o"
 ".\objects\ad7730.o"
+".\objects\mfrc522.o"
 ".\objects\startup_stm32f030x6.o"
 --strict --scatter ".\Objects\stm32f030_start.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols

@@ -1,0 +1,10 @@
+.\objects\pwm.o: CODE\src\pwm.c
+.\objects\pwm.o: .\CODE\inc\pwm.h
+.\objects\pwm.o: .\CMSIS\inc\stm32f0xx.h
+.\objects\pwm.o: .\CMSIS\inc\stm32f030x6.h
+.\objects\pwm.o: .\CMSIS\inc\core_cm0.h
+.\objects\pwm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pwm.o: .\CMSIS\inc\cmsis_version.h
+.\objects\pwm.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\pwm.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\pwm.o: .\CMSIS\inc\system_stm32f0xx.h

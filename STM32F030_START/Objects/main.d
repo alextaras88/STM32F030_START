@@ -28,3 +28,5 @@
 .\objects\main.o: .\CODE\inc\eeprom.h
 .\objects\main.o: .\CODE\inc\ads131e08.h
 .\objects\main.o: .\CODE\inc\ad7730.h
+.\objects\main.o: .\CODE\inc\mfrc522.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h

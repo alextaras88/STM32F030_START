@@ -1,0 +1,13 @@
+.\objects\mfrc522.o: CODE\src\mfrc522.c
+.\objects\mfrc522.o: .\CODE\inc\mfrc522.h
+.\objects\mfrc522.o: .\CMSIS\inc\stm32f0xx.h
+.\objects\mfrc522.o: .\CMSIS\inc\stm32f030x6.h
+.\objects\mfrc522.o: .\CMSIS\inc\core_cm0.h
+.\objects\mfrc522.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mfrc522.o: .\CMSIS\inc\cmsis_version.h
+.\objects\mfrc522.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\mfrc522.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\mfrc522.o: .\CMSIS\inc\system_stm32f0xx.h
+.\objects\mfrc522.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\mfrc522.o: .\CODE\inc\spi.h
+.\objects\mfrc522.o: .\CODE\inc\delay.h
